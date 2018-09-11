@@ -13,5 +13,10 @@ namespace GitTest
             // no idea what I'm supposed to do here
             // here is a splling mistake
         }
+
+        public static void SomeNewMethod()
+        {
+
+        }
     }
 }
