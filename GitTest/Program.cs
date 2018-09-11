@@ -18,5 +18,10 @@ namespace GitTest
         {
 
         }
+
+        public static void MethodInBranch1()
+        {
+
+        }
     }
 }
