@@ -11,7 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             // no idea what I'm supposed to do here
-            // here is a splling mistak
+            // here is a splling mistake
         }
     }
 }
